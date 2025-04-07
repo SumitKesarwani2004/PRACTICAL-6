@@ -3,7 +3,7 @@ b = 20
 c = a + b
 d = a - b
 e = a * b
-F = A /B
+f = a / b
 print(c)
 print(d)
 print(e)
